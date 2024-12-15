@@ -18,6 +18,8 @@ Clique no botão para jogar novamente.
 
 Para qualquer dúvida ou sugestão, sinta-se à vontade para entrar em contato!
 
+<br><br>
+
 ## Conceitos Abordados:
 
 Jogo de jokenpo aplicando conceitos de lógica de programação aplicados a jogos.
