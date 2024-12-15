@@ -6,7 +6,7 @@ Bem-vindo ao repositório do Jogo de Jo-ken-po com Tema do Yu-Gi-Oh! Este projet
 
 ## 🚀 Começando
 
-Para usar basta acessar o link: [Jogo de Cartas Yu-Gi-Oh | Jo-ken-po Edition](https://dudazt.github.io/Simulador-de-Piano/)
+Para usar basta acessar o link: [Jogo de Cartas Yu-Gi-Oh | Jo-ken-po Edition](https://dudazt.github.io/Jogo-de-Cartas-do-Yu-Gi-Oh/)
 
 Como Usar: Passe o mouse em cima das cartinhas e selecione qual desejar, depois veja a mágica acontecer! 
 
